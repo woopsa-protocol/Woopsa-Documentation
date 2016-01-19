@@ -1,2 +1,2 @@
 # Woopsa-Documentation
-The various Woopsa documentation (UML) and logos
+The various Woopsa documentation (UML + various diagrams) and logos.
